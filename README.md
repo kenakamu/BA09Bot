@@ -4,10 +4,11 @@
 このレポジトリは de:code 2017 BA09 で紹介したチャットボットのサンプルです。
 
 以下のレポジトリよりコードを拝借しています。
-認証は [AuthBot](https://github.com/MicrosoftDX/AuthBot)
-LINE 連携は [LINE Connector](https://github.com/kenakamu/line-bot-sdk-csharp)
-BotFramework テストは [BotInsights Tests](https://github.com/nzthiago/BotInsightsTests/)
-その他いくつかのコードは [Bot Builder Sample](https://github.com/Microsoft/BotBuilder-Samples/)
+
+- 認証は [AuthBot](https://github.com/MicrosoftDX/AuthBot)
+- LINE 連携は [LINE Connector](https://github.com/kenakamu/line-bot-sdk-csharp)
+- BotFramework テストは [BotInsights Tests](https://github.com/nzthiago/BotInsightsTests/)
+- その他いくつかのコードは [Bot Builder Sample](https://github.com/Microsoft/BotBuilder-Samples/)
 
 ## 接続先のサービス
 このサンプルは Microsoft Dynaimcs 365, Office Graph, Azure Storage に接続しています。
